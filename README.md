@@ -84,3 +84,10 @@ Unit tests are written using `pytest` to verify query filters, lookup indexing, 
 ```powershell
 .\venv\Scripts\pytest.exe tests/
 ```
+
+## Deployment Video
+
+https://github.com/user-attachments/assets/983380cb-ed53-45bc-9aeb-e8cac9ea8a17
+
+
+
