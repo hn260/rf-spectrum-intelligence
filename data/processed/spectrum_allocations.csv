@@ -1,0 +1,61 @@
+start_mhz,end_mhz,service,subservice,region,country,allocation_type,description,common_applications
+0.009,0.1485,Very Low Frequency (VLF),Maritime/Time,Global,Global,Primary,Time signals navigation and military maritime communications,Submarine communications time synchronization beacons
+0.1485,0.2835,Low Frequency (LF),Longwave Broadcasting,ITU Region 1,Global,Primary,Longwave AM radio broadcasting services,Public radio broadcast in Europe and Asia
+0.5265,1.6065,Medium Frequency (MF),AM Broadcast,Global,Global,Primary,Mediumwave AM radio broadcasting band,Commercial AM radio stations
+1.8,2.0,Amateur Radio,160m Band,Global,Global,Primary,160-meter amateur radio band (Top Band),Ham voice and CW communication
+3.5,4.0,Amateur Radio,80m Band,Global,Global,Primary,80-meter / 75-meter amateur radio band,Ham voice digital and CW communication
+5.3,5.4,Amateur Radio,60m Band,Global,Global,Secondary,60-meter amateur radio band,Emergency communication and ham testing
+7.0,7.3,Amateur Radio,40m Band,Global,Global,Primary,40-meter amateur radio band (Highly active),Ham DX and local communications
+10.1,10.15,Amateur Radio,30m Band,Global,Global,Secondary,30-meter amateur radio band (CW/Digital only),Ham CW and digital communication
+14.0,14.35,Amateur Radio,20m Band,Global,Global,Primary,20-meter amateur radio band (Primary HF DX band),International ham radio contacts
+18.068,18.168,Amateur Radio,17m Band,Global,Global,Primary,17-meter amateur radio band,Ham international voice and digital
+21.0,21.45,Amateur Radio,15m Band,Global,Global,Primary,15-meter amateur radio band,Ham voice CW and digital DX
+24.89,24.99,Amateur Radio,12m Band,Global,Global,Primary,12-meter amateur radio band,Ham voice and digital communication
+26.965,27.405,Citizen's Band (CB),CB Radio,Global,Global,Primary,Citizen's Band short-distance voice radio,Trucker radio personal communication
+28.0,29.7,Amateur Radio,10m Band,Global,Global,Primary,10-meter amateur radio band (VHF-like HF band),Ham local and DX communication
+50.0,54.0,Amateur Radio,6m Band,Global,Global,Primary,6-meter amateur radio band (The Magic Band),Ham local and sporadic-E DX
+87.5,108.0,FM Broadcast,FM Radio,Global,Global,Primary,VHF Band II FM broadcasting service,Commercial and public FM radio stations
+108.0,117.975,Aviation Navigation,VOR/ILS Localizer,Global,Global,Primary,VHF omnidirectional range and instrument landing systems,Aeronautical radionavigation beacons
+117.975,137.0,Aviation Communications,Airband VHF,Global,Global,Primary,Civil aviation VHF voice communications (Airband),Air Traffic Control pilot voice transmissions
+137.0,138.0,Weather Satellites,APT/Meteorological,Global,Global,Primary,Polar orbiting meteorological satellites downlink,NOAA APT weather imagery downlinks
+138.0,144.0,Land Mobile / Military,Fixed Mobile Services,Global,Global,Primary,Government/Military land mobile and fixed communications,Tactical communications land mobile radio
+144.0,148.0,Amateur Radio,2m Band,Global,Global,Primary,2-meter amateur radio band (Most popular VHF band),Ham repeaters simplex and satellite contacts
+156.0,162.025,Maritime Communications,VHF Maritime/AIS,Global,Global,Primary,VHF maritime mobile service and AIS tracking (161.975 & 162.025 MHz),Ship-to-ship ship-to-shore voice and AIS tracking
+162.4,162.55,Weather Radio,NOAA Weather,ITU Region 2,USA,Primary,NOAA Weather Radio continuous broadcast,Continuous emergency weather alerts
+174.0,230.0,Television Broadcasting,VHF TV Band III,Global,Global,Primary,VHF television channels and digital audio broadcasting (DAB),Digital audio broadcasting and analog/digital TV
+222.0,225.0,Amateur Radio,1.25m Band,ITU Region 2,USA,Primary,1.25-meter amateur radio band,Ham repeaters and local communications
+328.6,335.4,Aviation Navigation,ILS Glide Path,Global,Global,Primary,Instrument Landing System glide slope signals,Aircraft landing glide path guidance
+400.15,406.0,Meteorological Aids,Radiosonde Telemetry,Global,Global,Primary,Weather balloon radiosonde telemetry downlinks,Atmospheric profiling telemetry
+406.0,406.1,Distress Beacons,COSPAS-SARSAT,Global,Global,Primary,406 MHz emergency beacons satellite tracking,Search and rescue distress alerts
+420.0,450.0,Amateur Radio,70cm Band,Global,Global,Primary,70-centimeter amateur radio band (Popular UHF band),Ham repeaters satellite downlinks and local links
+433.05,434.79,ISM / Short Range,LoRa/LPD433,ITU Region 1,Global,Secondary,Short-range devices - ISM band,LoRa IoT nodes - remote car keys - weather stations
+450.0,470.0,Land Mobile,UHF Business Radio,Global,Global,Primary,UHF land mobile business and public safety communications,FRS/GMRS handheld radios - business dispatches
+470.0,806.0,Television Broadcasting,UHF TV,Global,Global,Primary,UHF television broadcasting and wireless microphones,Digital TV channels - wireless microphones
+824.0,849.0,Mobile Cellular,Cellular Uplink,ITU Region 2,USA,Primary,850 MHz cellular band uplink,Mobile network handset transmissions
+863.0,870.0,ISM / Short Range,LoRa/SRD868,ITU Region 1,Europe,Primary,Short-range devices - LoRa band Europe,LoRaWAN smart meters - IoT devices
+869.0,894.0,Mobile Cellular,Cellular Downlink,ITU Region 2,USA,Primary,850 MHz cellular band downlink,Mobile network base station transmissions
+890.0,915.0,Mobile Cellular,GSM900 Uplink,ITU Region 1,Europe,Primary,900 MHz cellular band uplink,GSM and LTE mobile handset transmissions
+902.0,928.0,ISM / Short Range,LoRa/SRD915,ITU Region 2,USA,Primary,915 MHz ISM band - LoRa US,LoRaWAN sensors - smart home - RFID
+935.0,960.0,Mobile Cellular,GSM900 Downlink,ITU Region 1,Europe,Primary,900 MHz cellular band downlink,GSM and LTE base station transmissions
+960.0,1164.0,Aviation Navigation,DME/TACAN/ADS-B,Global,Global,Primary,Aeronautical radionavigation - transponders - ADS-B (1090 MHz),Aircraft distance measurement - ADS-B transponders
+1164.0,1215.0,Satellite Navigation,GPS L5/Galileo,Global,Global,Primary,Radionavigation satellite service (civilian safety of life),GPS L5 - Galileo E5a/E5b navigation downlinks
+1215.0,1240.0,Satellite Navigation,GPS L2/GLONASS,Global,Global,Primary,Radionavigation satellite service (military/dual-frequency),GPS L2 - GLONASS G2 navigation downlinks
+1240.0,1300.0,Amateur Radio,23cm Band,Global,Global,Secondary,23-centimeter amateur radio band,Ham repeaters - amateur television (ATV) - satellite
+1427.0,1432.0,Mobile Satellite,L-band MSS,Global,Global,Primary,Mobile satellite service (uplink/downlink),Satellite phone voice and data
+1559.0,1610.0,Satellite Navigation,GPS L1/Galileo,Global,Global,Primary,Primary GPS L1 band (Civilian/Military),GPS L1 - Galileo E1 - GLONASS G1 - BeiDou B1
+1610.0,1626.5,Mobile Satellite,Iridium/Globalstar,Global,Global,Primary,Mobile satellite service L-band,Iridium/Globalstar satellite telephones and trackers
+1670.0,1710.0,Weather Satellites,MetSat Downlinks,Global,Global,Primary,Meteorological satellite downlinks (L-band),GOES/Metop high resolution weather picture downlinks
+1710.0,1785.0,Mobile Cellular,LTE Band 3 Uplink,Global,Global,Primary,1800 MHz mobile cellular uplink,LTE/5G mobile handset transmissions
+1805.0,1880.0,Mobile Cellular,LTE Band 3 Downlink,Global,Global,Primary,1800 MHz mobile cellular downlink,LTE/5G base station transmissions
+1880.0,1900.0,Telecommunications,DECT Cordless,ITU Region 1,Europe,Primary,Digital Enhanced Cordless Telecommunications,Cordless home telephones
+1920.0,1980.0,Mobile Cellular,LTE Band 1 Uplink,Global,Global,Primary,2100 MHz mobile cellular uplink,LTE/3G mobile handset transmissions
+2110.0,2170.0,Mobile Cellular,LTE Band 1 Downlink,Global,Global,Primary,2100 MHz mobile cellular downlink,LTE/3G base station transmissions
+2300.0,2400.0,Mobile Broadband,LTE Band 40,ITU Region 3,India,Primary,2.3 GHz TD-LTE mobile broadband services,4G and 5G mobile networks in India/China
+2400.0,2483.5,ISM / Wireless,Wi-Fi/Bluetooth,Global,Global,Primary,2.4 GHz ISM band - Wi-Fi - Bluetooth - Zigbee,Wireless internet routers - Bluetooth headphones - microwave ovens
+2483.5,2500.0,Mobile Satellite,S-band MSS,Global,Global,Primary,S-band mobile satellite services,Satellite-to-mobile communications
+2500.0,2690.0,Mobile Cellular,LTE Band 7,Global,Global,Primary,2.6 GHz mobile cellular services,4G and 5G high speed mobile data
+3300.0,3800.0,Mobile Cellular,5G NR Mid-band,Global,Global,Primary,5G NR mid-band sub-6 GHz (n78),High-capacity urban 5G networks
+5150.0,5350.0,ISM / Wireless,Wi-Fi 5GHz,Global,Global,Primary,5 GHz Wi-Fi (U-NII-1 and U-NII-2A),High-speed Wi-Fi network routers
+5470.0,5725.0,ISM / Wireless,Wi-Fi 5GHz,Global,Global,Primary,5 GHz Wi-Fi (U-NII-2C),High-speed Wi-Fi network routers
+5725.0,5875.0,ISM / Wireless,Wi-Fi 5GHz,Global,Global,Primary,5 GHz Wi-Fi (U-NII-3) and ISM,Wi-Fi network routers - point-to-point microwave links
+5875.0,5925.0,Transportation,ITS / V2X,Global,Global,Primary,Intelligent Transportation Systems (ITS) safety communications,Vehicle-to-everything (V2X) communications
